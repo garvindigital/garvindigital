@@ -1,16 +1,17 @@
-## Hi there 👋
+# Dallen Garvin
 
-<!--
-**garvindigital/garvindigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m seeking a software development internship. Explore my selected projects through the links below.
 
-Here are some ideas to get you started:
+[Portfolio](https://garvindigital.com/work) · [LinkedIn](https://www.linkedin.com/in/dallen-garvin-4439a9385)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+| Project | Website | Portfolio |
+| --- | --- | --- |
+| 5 Star Rental | [Live website](https://www.5starrentalrichfield.com/) | [Project](https://garvindigital.com/projects/5-star-rental) |
+| Skalet website | [Live website](https://skaletapp.com/) | [Project](https://garvindigital.com/projects/skalet-website) |
+| Red Pine Electric | [Live website](https://www.redpineelectric.com/) | [Project](https://garvindigital.com/projects/red-pine-electric) |
+| Boren’s Smokehouse | [Live website](https://www.borenssmokehouse.com/) | [Project](https://garvindigital.com/projects/borens-smokehouse) |
+| Garvin Digital | [Live website](https://garvindigital.com/) | [Project](https://garvindigital.com/projects/garvin-digital) |
+
+Client source repositories remain private. This public showcase provides links to the live websites and portfolio project pages.
